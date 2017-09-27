@@ -12,6 +12,7 @@
       "babel-module": {}
     }
   },
+  "parser": "babel-eslint",
   "rules": {
     "guard-for-in": 0,
     "max-len": 0,

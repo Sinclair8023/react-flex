@@ -33,7 +33,14 @@
       "never"
     ],
     "no-plusplus": 0,
-   
+    "react/jsx-indent-props": [
+      0,
+      2
+    ],
+    "react/jsx-indent": [
+      0,
+      2
+    ],
     "import/no-unresolved": 0,
     "import/extensions": 0,
     "import/no-absolute-path": 0,

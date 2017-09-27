@@ -1,6 +1,8 @@
 {
-   "env": {
-    "browser": true
+ 
+  "parser": "babel-eslint",
+  "env": {
+    "browser": 1
   },
   "globals": {
     "document": true,
@@ -12,7 +14,6 @@
       "babel-module": {}
     }
   },
-  "parser": "babel-eslint",
   "rules": {
     "guard-for-in": 0,
     "max-len": 0,
@@ -32,14 +33,7 @@
       "never"
     ],
     "no-plusplus": 0,
-    "react/jsx-indent-props": [
-      2,
-      2
-    ],
-    "react/jsx-indent": [
-      2,
-      2
-    ],
+   
     "import/no-unresolved": 0,
     "import/extensions": 0,
     "import/no-absolute-path": 0,
@@ -70,7 +64,6 @@
     "no-alert": 0,
     "linebreak-style": 0,
     "object-property-newline": 0,
-    "no-confusing-arrow": 0,
-    "no-var":"error"
+    "no-confusing-arrow": 0
   }
 }

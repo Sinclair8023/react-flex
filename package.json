@@ -1,0 +1,23 @@
+{
+  "name": "react-flex",
+  "version": "1.0.0",
+  "description": "react flex componnt",
+  "main": "Flex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinclair8023/react-flex.git"
+  },
+  "keywords": [
+    "react",
+    "flex"
+  ],
+  "author": "Sinclair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sinclair8023/react-flex/issues"
+  },
+  "homepage": "https://github.com/Sinclair8023/react-flex#readme"
+}
